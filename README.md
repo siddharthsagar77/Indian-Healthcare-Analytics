@@ -35,8 +35,8 @@ The project uncovers actionable insights into **chronic disease prevalence (Diab
 
 ### 📄 Page 1: Patient Overview & Demographics
 > **Focus:** Public health demographics, health equity, socioeconomic stratifications, insurance penetration, and seasonality.
+![Clinical Analysis & Biomarkers](assets/dashboard_page2.png)
 
-![Patient Overview & Demographics](assets/dashboard_page3.png)
 
 #### 🎯 Key Metrics & Highlights:
 - **Total Patient Visits Analyzed:** `64,969` (64.97K)
@@ -50,7 +50,8 @@ The project uncovers actionable insights into **chronic disease prevalence (Diab
 - ### 📄 Page 2: Clinical Analysis & Biomarkers
 > **Focus:** Population metabolic profiles, glycemic control benchmarks, chronic condition ranking, and radiological correlation.
 
-![Clinical Analysis & Biomarkers](assets/dashboard_page2.png)
+
+![Patient Overview & Demographics](assets/dashboard_page3.png)
 
 #### 🎯 Key Metrics & Highlights:
 - **Avg Blood Glucose:** `127.7 mg/dL`
