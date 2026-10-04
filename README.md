@@ -33,23 +33,21 @@ The project uncovers actionable insights into **chronic disease prevalence (Diab
 
 ## 🖥️ Dashboard Previews & Key Findings
 
-### 📄 Page 1: Treatment Outcomes & Operations
-> **Focus:** Clinical effectiveness, referral bottlenecks, hospital sector benchmarking, and operational high-risk tracking.
+### 📄 Page 1: Patient Overview & Demographics
+> **Focus:** Public health demographics, health equity, socioeconomic stratifications, insurance penetration, and seasonality.
 
-![Treatment Outcomes & Operations](assets/dashboard_page1.png)
+![Patient Overview & Demographics](assets/dashboard_page3.png)
 
 #### 🎯 Key Metrics & Highlights:
-- **Treatment Success Rate:** `39.7%` overall favorable outcome.
-- **Worsened Outcome Rate:** `20.0%` of cases deteriorate during intervention.
-- **Referred Rate:** `19.98%` requiring transfer to tertiary facilities.
-- **High-Risk Patient Count:** `683` critical individuals flagged for immediate care.
-- **Sector Analysis:** Direct performance comparison across **Government**, **Private**, and **Corporate** healthcare providers.
-- **Geographic Vulnerability:** Regional concentration identifying highest high-risk volumes in states like **Tamil Nadu** and **Kerala**.
-- **Diagnosis × Treatment Efficacy Matrix:** Granular cross-tabulation mapping treatment protocols against outcomes across all diagnoses.
+- **Total Patient Visits Analyzed:** `64,969` (64.97K)
+- **Insurance Penetration Rate:** `35.03%` (Highlighting significant out-of-pocket exposure)
+- **Average Patient Age:** `44.4 Years`
+- **Sex Ratio (M:F):** `1.06`
+- **Socioeconomic Status (SES) Breakdown:** Cross-analyzed by age groups (Young, Middle-aged, Senior) and hospital type preference.
+- **Insurance by Hospital Type:** Donut distribution showing private/corporate facilities capturing the majority of insured visits.
+- **Visit Seasonality:** Monthly trend tracking peak admission waves throughout the calendar year.
 
----
-
-### 📄 Page 2: Clinical Analysis & Biomarkers
+- ### 📄 Page 2: Clinical Analysis & Biomarkers
 > **Focus:** Population metabolic profiles, glycemic control benchmarks, chronic condition ranking, and radiological correlation.
 
 ![Clinical Analysis & Biomarkers](assets/dashboard_page2.png)
@@ -66,19 +64,25 @@ The project uncovers actionable insights into **chronic disease prevalence (Diab
 
 ---
 
-### 📄 Page 3: Patient Overview & Demographics
-> **Focus:** Public health demographics, health equity, socioeconomic stratifications, insurance penetration, and seasonality.
+### 📄 Page 3: Treatment Outcomes & Operations
+> **Focus:** Clinical effectiveness, referral bottlenecks, hospital sector benchmarking, and operational high-risk tracking.
 
-![Patient Overview & Demographics](assets/dashboard_page3.png)
+![Treatment Outcomes & Operations](assets/dashboard_page1.png)
 
 #### 🎯 Key Metrics & Highlights:
-- **Total Patient Visits Analyzed:** `64,969` (64.97K)
-- **Insurance Penetration Rate:** `35.03%` (Highlighting significant out-of-pocket exposure)
-- **Average Patient Age:** `44.4 Years`
-- **Sex Ratio (M:F):** `1.06`
-- **Socioeconomic Status (SES) Breakdown:** Cross-analyzed by age groups (Young, Middle-aged, Senior) and hospital type preference.
-- **Insurance by Hospital Type:** Donut distribution showing private/corporate facilities capturing the majority of insured visits.
-- **Visit Seasonality:** Monthly trend tracking peak admission waves throughout the calendar year.
+- **Treatment Success Rate:** `39.7%` overall favorable outcome.
+- **Worsened Outcome Rate:** `20.0%` of cases deteriorate during intervention.
+- **Referred Rate:** `19.98%` requiring transfer to tertiary facilities.
+- **High-Risk Patient Count:** `683` critical individuals flagged for immediate care.
+- **Sector Analysis:** Direct performance comparison across **Government**, **Private**, and **Corporate** healthcare providers.
+- **Geographic Vulnerability:** Regional concentration identifying highest high-risk volumes in states like **Tamil Nadu** and **Kerala**.
+- **Diagnosis × Treatment Efficacy Matrix:** Granular cross-tabulation mapping treatment protocols against outcomes across all diagnoses.
+
+---
+
+
+
+
 
 ---
 
