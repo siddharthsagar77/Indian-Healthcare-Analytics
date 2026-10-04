@@ -35,7 +35,9 @@ The project uncovers actionable insights into **chronic disease prevalence (Diab
 
 ### 📄 Page 1: Patient Overview & Demographics
 > **Focus:** Public health demographics, health equity, socioeconomic stratifications, insurance penetration, and seasonality.
-![Clinical Analysis & Biomarkers](assets/Screenshot 2026-10-04 131226.png)
+
+
+![Clinical Analysis & Biomarkers](assets/Screenshot2026-10-04131226.png)
 
 
 #### 🎯 Key Metrics & Highlights:
